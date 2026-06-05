@@ -202,6 +202,8 @@ Open `http://localhost:5173` in your browser.
 
 This project was built as part of a cybersecurity portfolio focused on DoD compliance automation. The author holds a CompTIA Security+ certification, has a background in DoD telecommunications and CAC/PKI infrastructure, and has worked as an ISSO supporting cleared environments.
 
+This project was developed collaboratively with AI assistance (Claude by Anthropic). The concept, requirements, STIG remediation logic, and testing were driven by the author — AI was used as a development tool to accelerate implementation, similar to how a security engineer might use Copilot or other tooling in a professional environment. The goal was to produce a working, accurate demonstration of STIG automation knowledge rather than to claim authorship of every line of code.
+
 The SCAP Auto-Fix Engine demonstrates practical skills in:
 
 - DISA STIG compliance and SCAP tooling
